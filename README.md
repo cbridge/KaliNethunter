@@ -2,6 +2,7 @@
 
 This module allows you to install the Kali Nethunter chroot systemlessly - see https://github.com/offensive-security/kali-nethunter for further information about kali Nethunter
 ![Kali NetHunter](https://gitlab.com/kalilinux/nethunter/build-scripts/kali-nethunter-project/raw/master/images/nethunter-git-logo.png)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fcbridge%2FKaliNethunter.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fcbridge%2FKaliNethunter?ref=badge_shield)
 
 ## Installation instructions:
 * Install attached Magisk Module
@@ -30,3 +31,7 @@ To remove this fully:
 
 ## Notes
 This is an unofficial build. Credits to all the Offensive Security team and those working on the Nethunter project.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fcbridge%2FKaliNethunter.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fcbridge%2FKaliNethunter?ref=badge_large)
